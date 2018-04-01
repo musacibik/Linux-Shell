@@ -16,7 +16,7 @@ In case of having this error, you need to do the followings:
 fprintf(f, "/usr/local/bin/play ");
 ```
 
-#### If you continue to have trouble, you can contact me at this email address: msarac13@ku.edu.tr &nbsp;&nbsp;:email:
+#### If you continue to have trouble, you can contact us at this email addresses: msarac13@ku.edu.tr || mcibik13@ku.edu.tr &nbsp;&nbsp;:email:
 
 ### Description 
 
